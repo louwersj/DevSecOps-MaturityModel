@@ -1,6 +1,7 @@
 # DevSecOps - mapping to DevOps
 
-![alt text](./images/mapping_devops.png "Standard DevOps Model "){:height="50%" width="50%"}
+
+![alt text](./images/mapping_devops.png "Standard DevOps Model ")
 
 * Plan
 * Code
